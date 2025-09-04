@@ -1,12 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi 👋, I'm Wajaht Abid
+A Passionate Full Stack Developer from Pakistan
+I'm a dedicated and enthusiastic Full Stack Developer, currently focusing on building scalable, high-performance applications using modern web technologies. With expertise in both front-end and back-end development, I strive to deliver quality solutions that meet user and business needs.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔭 I’m currently working on Full Stack Development with Laravel, React.js, Next.js, and Node.js.
 
-## Expanding the ESLint configuration
+🌱 I’m expanding my knowledge of Advanced Next.js, API Development, and Web Performance Optimization.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👯 I’m eager to collaborate on Full Stack Projects, where I can contribute my skills and learn from others in the community.
+
+🤔 I’m seeking advice on scaling complex applications.
+
+💬 Feel free to ask me about Laravel, React.js, Node.js, Next.js, MongoDB, MySql, and Full Stack Development in general.
+
+📫 You can reach me at m.wajahatabid@gmail.com, Phone: +923194333402.
+
+⚡ Fun fact: I think of coding as solving complex puzzles, piece by piece!
